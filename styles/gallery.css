@@ -1,0 +1,36 @@
+.content {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+h2 {
+  font-family: 'pf_din_text_comp_probold', sans-serif;
+  text-transform: uppercase;
+  margin: 5px;
+  text-align: center;
+}
+
+.profile-card {
+  flex: 1 1 150px;
+  border-top: 15px solid black;
+  margin: 20px;
+  background-color: #FED606;
+}
+
+
+
+.profile-card > img {
+  width: 100%;
+}
+
+.profile-card > a {
+  text-decoration: none;
+  color: black;
+}
+
+.profile-card > a:hover {
+  color: #999999;
+}

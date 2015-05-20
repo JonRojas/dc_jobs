@@ -1,0 +1,398 @@
+{ "students": [
+    {
+      "teacher":"Mr. Holder, band director for four years. Made me love band, teamwork, and taught me what it takes to be successful.",
+      "inspiration":"Billy Strayhorn. Composer, band arranger, and pianist who wrote a ton of great tunes for Duke Ellington, but more importantly was openly gay and a minority in the early 20th century but yet highly regarded both then and now. ",
+      "project":"Working as a wrangler in Montana. It was awesome because I got to ride horses all in day in a beautiful place and get paid for it. ",
+      "pleasure":"I like to pretend I'm the radio commentator for the Washington Nationals when I'm listening to the broadcast on the radio. \n\nI like to pretend like I'm playing the drums on my steering wheel with the pair of drum sticks I keep in my car when stuck in traffic. ",
+      "name":"Tyler Brooks",
+      "twitter":"@idonthaveoneyet",
+      "git":"@htylerbrooks"
+    },
+    {
+      "teacher":"Don't really have one. I had plenty of teachers that did their jobs well but no one who really stood out. I guess if I had to choose, maybe my Algebra teacher Mr.Odell or my IB English teacher Ms.Green or maybe my Music Theory teacher Mr. Samandari.",
+      "inspiration":"I actually wrote down a list sometime ago that included Simone de Bovier (awesome 2nd wave feminist and existentialist) , Maria Callas(revolutionized opera singing by introducing theatrics), Ayn Rand (respect her for her influence, not politics), Bob Dylan (amazing songwriting and story telling skills) and Margret Thatcher (see Ayn Rand explanation). I stand by it.",
+      "project":"The last project I completed before WDI was my online portfolio. It was the first project that I incorporated JQuery and Javascript into along with my usual HTML/CSS and a few wireframes and sitemaps to get the design down.",
+      "pleasure":"I don't know, cheesy pop music?",
+      "name":"Isatu Conteh",
+      "twitter":"don't have on yet",
+      "git":"https://github.com/Freetown5"
+    },
+    {
+      "teacher":"One of my history professors at university (unfortunately I don't remember the name). Her voice was soothing. ",
+      "inspiration":"Michael Jordan. Not really for basketball, but just in general; I see him as one of the most exceptional human beings of our time in terms of his desire, confidence, and sheer will power. ",
+      "project":"None.",
+      "pleasure":"\"Boring\" documentaries. \nComputer games (SC2, DOTA2).",
+      "name":"Aaron Park",
+      "twitter":"aparker87",
+      "git":"apark87"
+    },
+    {
+      "teacher":"My freshman year English professor | She exposed me to technology via Thomas Friedman's The World Is Flat ",
+      "inspiration":"Machinedrum | His music's second to none ",
+      "project":"Crowdsurfer | I designed and developed the front-end ",
+      "pleasure":"None ",
+      "name":"Chad Smith",
+      "twitter":"chadxsmith",
+      "git":"chadxsmith "
+    },
+    {
+      "teacher":"Mr. Horan, my AP History teacher. He taught me  that I can argue any point I want, but I better have a strong case to back it up. He also helped me appreciate history as a story instead of just a collection dates. He was really tough, but fair and I really respected him for it.",
+      "inspiration":"My high school English teacher Mr. Fava. In junior high, I kind of lost my way, and was acting out. As a result, my parents decided to enroll me in a Catholic all boys school (the next step was military school). When I applied, Mr. Fava also happened to be the Dean of Admissions and told my parents that he was so impressed with my essay, that not only did he want me in his class, he wanted me in all Honors classes. It was the first time that I really felt respected and gave me something to live up to.  ",
+      "project":"Learning Linux. A few years ago, my wife received an old laptop from her dad for travel purposes. When work handed her a new one to take with her on trips, it just laid around the house. My brother has been an Ubuntu fan for years and has been trying to get me to try it, so I when I started Web Design Circuits, I asked my wife if I could take the laptop.  As an added challenge, I tried a distro my brother hadn't used before (Mint) so everything I've learned has been on my own. For the price of a new battery (around $14) I revived a 2001 IBM Thinkpad and it works better than my current work laptop.  \n\nWhat excited me about it was the thrill of finally getting programs to work the way I wanted them to.  Plus, there was the thrill of restoring something that was on it way out to the trash heap.",
+      "pleasure":"Cheesy pop  and disco songs. That's all I'm going to say about that.",
+      "name":"Keith Knox",
+      "twitter":"@KeithKnoxKnox",
+      "git":"keithknox"
+    },
+    {
+      "teacher":"Ms. Montgomery was my high school art teacher. She was forced to retire at the end of 20-something years because she let students drive her car off-campus while they were supposed to be in class. She called our principal \"Pumpkin-Butt\". I wouldn't have expected it, but what she taught me about seeing the world plays a bigger role in my everyday life than anything else I learned in high school.",
+      "inspiration":"My fiancée is a first grade teacher in DC Public Schools, and she's amazing. Walking into her classroom, and seeing the walls covered in posters and writing assignments and projects on things she taught these kids all by herself, I always feel so much in awe of her, and so excited to some day have kids putting posters and projects on the walls of our home.",
+      "project":"I ran a successful (but very small) Kickstarter campaign to make laser-cut wooden pens the shape and size of a business card, so they'd fit in your wallet.",
+      "pleasure":"About 10% of the last four years has been spent surfing Reddit.",
+      "name":"Robin Thomas",
+      "twitter":"RobertAKARobin",
+      "git":"RobertAKARobin"
+    },
+    {
+      "teacher":"Mr. Washek, my high school social studies teacher.  He was one of the few teachers that I have ever been in awe of for his sheer knowledge of history, politics, and current events.  He had extremely high expectations, which pushed us to do well.\n\nHe also had a quirky sense of humor.  After he passed out exams, he would often leave us with the comment, \"As they say in Chinese restaurants, ... 'Enjoy.'\"",
+      "inspiration":"My cousin Cathy inspired me to formally learn animation.  We've both had an interest since we were kids, but until she actually majored in it I hadn't considered pursuing it.",
+      "project":"BEARINGS of Baltimore, Circa 1815.  I got to be project lead and primary researcher on phase 2 of recreating, in virtual space, what the city of Baltimore looked like 200 years ago.  \n\nWhat isn't cool about that?  ... History, art, and technology coming together to give users a way to explore a lost world.",
+      "pleasure":"Reading fanfiction about a TV show that has been off the air for years.",
+      "name":"Tammy Peters",
+      "twitter":"tpeters0",
+      "git":"tpeters0"
+    },
+    {
+      "teacher":"My Ancient World Astronomy Teacher from freshman year of college. He opened my eyes to things that changed my life and was one of the first teachers to make me want to learn every class.",
+      "inspiration":"My brothers. They are 10 and 12 years older than me and I continue to follow in their foot steps. They have taught me so many things from my first words to how to challenge and accomplish anything you set your mind to.",
+      "project":"Teaching 7th graders Science for a year in China. The school gave me no lesson plans, books or curriculum and I had to make the class interesting, and teach them on par with the Chinese taught science classes. This \"project\" took almost 9 months and there were a lot of ups and downs, but in the end I accomplished the task. It was a fun learning experience. ",
+      "pleasure":"Any cop tv show, not \"cops\" but more like Law and Order. I can watch them all no matter how old or new. Gotta love netflix and all the other video services!!! Great way to spend the day snowed in.",
+      "name":"Preston Straight",
+      "twitter":"@presto2116",
+      "git":"presto2116"
+    },
+    {
+      "teacher":"My favorite teacher was my 11th grade Calculus teacher, Mrs.Kelly, because she constantly pushed me to think outside the box and truly cared about my life outside of school.",
+      "inspiration":"Kanye West has inspired me because he has shown me how important self confidence is.  I am a fan of his art, and his impact on music is undeniable.",
+      "project":"The last cool project I did was building and managing a recording studio.  3 friends and I handled all aspects of the business including administrative work, finance & accounting, and marketing.  It excited me because I enjoy making music, and I also wanted to learn about the process of starting up a business.  Also, it gave me the chance to code and deploy a website I am proud of.",
+      "pleasure":"My guilty pleasure is playing video games for hours without contacting my mom or girlfriend.",
+      "name":"Lorenzo Antonio",
+      "twitter":"_en_zo",
+      "git":"raflorenzo"
+    },
+    {
+      "teacher":"I had a great French teacher throughout high school named Tom Joyce. His teaching was so inventive and entertaining it was impossible to be bored. He was incredibly kind and genuine, too. I ended up getting a french minor at Penn State because of him. ",
+      "inspiration":"A good friend of mine from college, Noelle Mateer. Sooo many people (myself included) talk a big game about \"traveling the world\" or vaguely envision doing it someday. She doesn't make excuses or put off plans til the future, she just does it.  ",
+      "project":"I built a walk-in cooler for my brother's brewery. It was like building a tiny house, which is crazy because I had zero construction experience beforehand. I was doing various coding tutorials in my spare time and there were a lot of parallels between learning to program and building this cooler. Me hanging out in the contractors section of Home Depot = \"imposter syndrome\" to the max. ",
+      "pleasure":"Bar Rescue. Jon Taffer does not play games. ",
+      "name":"Brad Foster",
+      "twitter":"@fosterthebradly",
+      "git":"btf5048"
+    },
+    {
+      "teacher":"One of my favorite teacher is Shondelyn. She teaches professional development, record management and business administration. I was in all her classes. Every Friday she asked me whats my accomplishment and challenges this week. I learn to self-reflect, set realistic objectives and become a professional from her. She was my mentor and my mother. ",
+      "inspiration":"Someone who has inspired me is my step-dad, Bruce. He is truly what one would called a self-made man. Born from poverty with his alcoholic parents to a young successful middle age man. While he is only 12 years older than me, I look up to him regardless. He plans for the future everyday, takes care of his body and extremely productive at whatever he does. I would say he have life figured out quite early. I could keep going forever...",
+      "project":"If spending all night excitedly building my own blog website for the WDI doesn't count, than it has to be my final project in Business Administration of creating a conference in DC. It excited me because I was leading a team of 5 to plan a conference from scratch. At first we all struggle to be cohesive in the final vision. It took leadership, communication, shared vision and team work to finally finished the project.",
+      "pleasure":"There is almost nothing that makes me uncomfortable to tell people about my real self. But I would say my guilty pleasure is watching Anime, especially Naruto and One Piece. Those two shows are an epic adventure that doesn't seem to end and it has started from I was a little. It is fun and exciting to watch em, even though I'm getting older. hahahah",
+      "name":"Nurichsan Pratama (Biboy)",
+      "twitter":"n/a",
+      "git":"n/a"
+    },
+    {
+      "teacher":"Favorite COMMENT from a teacher (Mrs. LaBelle, french teacher, Wilbraham and Monson Academy): \"He lends an air of quiet dignity to a somewhat chatty group of females\" ",
+      "inspiration":"Astronomer Carl Sagan, for encouraging the mixing of scientific reasoning and childish enthusiasm (or, education and play).",
+      "project":"Took a Coursera course from the Berklee College of Music on Digitlal Music Production. A terrific blend of art and technology.",
+      "pleasure":"Truthfully, I don't feel guilty about anything I do, but I'll say Mystery Science Theater 3000.",
+      "name":"Jonathan Perry",
+      "twitter":"whoopsjonny",
+      "git":"slrfg"
+    },
+    {
+      "teacher":"My favorite teacher was my 3-D Art Fundamentals professor during my first semester of college. Her name is Christine Rojek and her teaching style was one that worked very well for me. From day one of that class, it was clear the university defined goals for the class were aimed at teaching more of a fine art approach to interacting with the 3-D world rather than anything design related like furniture or products. However, whenever I approached a project for that class, my desire to build stylish chairs or boxes with sophisticated locking mechanisms showed through and my work came out decidedly non-fine art. Christine, seeing my design ambitions, never tried to steer me away from design, towards fine art. Quite the contrary, she let me play with the objectives of the class so while they technically fit the school's requirements of the class, they allowed me to establish my own goal and get the most out of each assignment. I think being able to be identify a student's strengths and work with them to fulfill the requirements of a class is a skill that I don't always see in educational settings, so it was amazing to work with a professor who could do that.",
+      "inspiration":"My former boss Joel Klaff has had a great impact on my life. I worked for him at my last job in Chicago. He owns an interior design studio that he runs with his partner John, but most of the year Joel is away doing set-design for films. Joel throughout his whole life has been incredibly active in pursuing any endeavor that he was interested in. In the 80's he was a famous performance artist in Chicago. In the 90's he turned his love of fabrics into an interior design career which has now turned into an incredibly successful career as a set designer. He lives his life in a very purposeful way and it was incredibly inspiring to work for him and to just be around him.",
+      "project":"I'd say the last cool project I did before WDI was designing the constant contact email blasts for my last job at the interior design studio. My bosses gave me creative freedom to do what I pleased, I was surrounded by beautiful fabrics to include in the blasts so I had ample material to work with, and lastly it was really fun incorporating what little html I knew to alter the framework of the blasts. ",
+      "pleasure":"I think I'm at a point in my life where I'm fairly okay with admitting to people the things that make me happy, so I wouldn't say I exactly have a \"guilty\" pleasure. However, my nerdy obsession is sketching and studying classic pieces of furniture. I'm a giant architecture and furniture nerd so I do like to devote an inordinate amount of time to analyzing great designers' work. ",
+      "name":"Jamey McElvain-Whitman",
+      "twitter":"@jameymcwhit",
+      "git":"jameymcwhit"
+    },
+    {
+      "teacher":"One of my english teachers in high school was a delightfully sarcastic man who fancied himself the sort of inspirational teacher depicted in the Dead Poets Society or The History Boys.  He was the first teacher who made me feel like I was smart and capable (and in a subject I was never very confident in!). ",
+      "inspiration":"I'm inspired by Lauren Paul (Aaron Paul/Jesse Pinkman's wife), who took her experiences with being bullied and helped found the Kind Campaign, a movement dedicated to ending girl-on-girl \"crime\" and emphasizing the importance of (you guessed it) being kind to each other.  I'm impressed by people who turn negative experiences into positive changes. ",
+      "project":"I took a few sewing classes last summer and it sounds silly, but I really liked seeing how the weirdly shaped pieces fit together to create a whole product.  Having something to show for all the work didn't hurt either.  It's definitely something I want to continue working on, although finding enough space to do so is another story...",
+      "pleasure":"My guilty pleasure is all things cute and fuzzy.  I got about 12 messages when Rusty the Red Panda went missing asking for my alibi.  I also have a special weakness for animals with poor grammar.  Please see: @probirdrights, doge, lolcats, etc.  ",
+      "name":"Diana Jurgielewicz",
+      "twitter":"@dmjurgles",
+      "git":"dmjurg"
+    },
+    {
+      "teacher":"I had an African history professor in college who really deepened my interest in African affairs, history, and the environment. She was a tough professor––she assigned a lot of work and expected us to read everything––but I enjoyed every minute of her classes. ",
+      "inspiration":"My two closest friends inspire me because of how carefully they've thought about what they want out of life. Even though sometimes what they want or what they like to do is unconventional, they are both really comfortable in their own skin.",
+      "project":"I built a standing desk for my bedroom so that I could work standing up and have a second monitor. I have two monitors at work (great), but sit all day (not so great). It was exciting building something on my own, even if it was only to solve a small want that I had. ",
+      "pleasure":"I like what Ira Glass has to say about guilty pleasures:\n\n\"I don’t believe in guilty pleasures, I only believe in pleasures. People who call reading detective fiction or eating dessert a guilty pleasure make me want to puke. Pedophilia is a pleasure a person should have guilt about. Not chocolate.\"",
+      "name":"Nabil Hashmi",
+      "twitter":"nabilhashmi",
+      "git":"nhashmi"
+    },
+    {
+      "teacher":"My favorite teacher was my tenth grade History teacher, Mr. York. He taught his students to always question what the media and other sources sell as \"facts\" rather than just accept what we are told is the truth.  This thought process sparked a desire to get to the bottom of things within me.\n",
+      "inspiration":"My online pal Austen from the UK has inspired me.  We have never met in person but have been chatting on and off for about seven years.  We met on a Myspace typology forum, he helped me delve into the MBTI (Myer Briggs Type Indicator) and the Enneagram.  These are very insightful tests to determine personality types.  Austen introduced me to many new concepts as well as shared all his resources with me to get a more in depth understanding on my own time.  It was much later that I also met my husband in a typology forum :)",
+      "project":"Sadly I can't say that I am proud of anything I have worked on recently.  Most of the coding I've done has been during tutorials where I was walked through a process.  As of yet, I have not been brave enough to start something on my own and build upon it.  However, I really hope that once this class starts, and after this class is over, all that will have changed.",
+      "pleasure":"One of my guilty pleasures is listening to an artist's entire discography, from the oldest albums produced, up until the latest, whenever I find someone I really like.",
+      "name":"Jocelyn Jeriah",
+      "twitter":"luminousbeam",
+      "git":"luminousbeam"
+    },
+    {
+      "teacher":"Devrim Abi  - (my math tutor from 7th grade to 12th grade), he showed me how to like math and thanks to him I  pursued a quantitative degree",
+      "inspiration":"My sister because she believes in me more than I do. Shows and tells me that nothing is impossible if you work hard at it. Generally inspires me with her positive attitude.",
+      "project":"Python rice rocks project from Coursera python Course that I took. Below is the link\nhttp://www.codeskulptor.org/#user38_MwqS45Q2qt_23.py",
+      "pleasure":"I still flip the remote control like it's a finger skateboard. No shame in that right? No one can do a better switch 360 flip with a remote better than me :)",
+      "name":"Ali Topaloglu",
+      "twitter":"https://twitter.com/AliTopal89",
+      "git":"https://github.com/AliTopal89"
+    },
+    {
+      "teacher":"Noel Price:  genuine care for well being of students, not just as students but as human beings. ",
+      "inspiration":"Father, he had the courage to leave a well paying job to set out on his own.",
+      "project":"Learned to invest in the stock market, had consistent double digit returns.",
+      "pleasure":"House window shopping, where one drives around wealthy neighborhoods and fantasizes about own one. ",
+      "name":"John Moua",
+      "twitter":"@John_T_Moua",
+      "git":"tsetoung"
+    },
+    {
+      "teacher":"Mrs. Dart was one of my two first grade teachers.  It's a little strange, but I really liked her voice.  She was all the things most people's favourite teachers are - supportive, caring, passionate about learning.  But every day, we'd write our homework in our planners, pack up our things and sit back at our desks to listen for our names being called for carpool and Mrs. Dart would read to us.  She'd turn off the lights and read E.B. White classics and then the Chronicles of Narnia.  That was the best part of the day.",
+      "inspiration":"There was a teacher at my school named Karen.  She was the most organized person I've ever met.  She taught several different grades over the years she was teaching, but her classroom was always carefully labelled and everything had a \"home\" in her room.  I would love to be so organized, and think of her every time I try to organize any part of my life.",
+      "project":"Instead of writing a final paper for one of my grad classes about intelligence, I made a quilt.  I'd never made a quilt before, and I decided to hand piece this one based on something I saw on Pinterest.  I related the process of creating a quilt to theories of fluid intelligence - intelligence is malleable.",
+      "pleasure":"Pinterest.  Does that count?  I spend waaaay too much time looking at random stuff on Pinterest.  I do actually do some stuff with the ideas I get from there; make foods, or crafts, but really, I just like looking at all the pretty pictures!",
+      "name":"Gwen Mak",
+      "twitter":"@tuzibun",
+      "git":"uh none yet"
+    },
+    {
+      "teacher":"My favorite teacher was my freshman college accounting professor. He was my favorite because he always challenged me to work harder and think bigger. He taught me how to push myself in ways I didn't know, and I believe he helped prepare me for the remaining time at school. He has also been a tremendous resource since I entered the work world.",
+      "inspiration":"As cliche as it sounds, my parents have really inspired me. Both my mother and my father are self employed, and they raised three children (putting us all through college I might add!). My parents have built tremendous lives for themselves in their community, and I attribute the success I have experienced to their stern but fair upbringing.",
+      "project":"My last cool project before WDI was creating a strategy for moving my current employers primary warehouse location. This involved many moving pieces, most of which had to do with the layout itself of the new facility. The project excited me because it involved a lot of critical thinking and problem solving, trying to manipulate a space to fit the needs of the business. More than that, I had to utilize my experience to design the optimal layout. I very much enjoy working through problems and using prior knowledge to help solve them.",
+      "pleasure":"My guilty pleasure is jazz. I am a huge fan of the blues too!\n\nThis type of music is not for everyone. But for me, there is nothing better than finding a small jazz bar in the middle of the city, sitting down and sipping a drink to some smooth tunes. I can't tell you how many cool people I have met doing this!",
+      "name":"David Zager",
+      "twitter":"N/A",
+      "git":"ddzager"
+    },
+    {
+      "teacher":"My favorite teacher is Mrs. Tanaka from Hawaii as I grew up being her student in the elementary school. I used to be a little rascal that I usually caused so much troubles. Mrs. Tanaka worked hard to keep me out of troubles by teaching me how to read and speak, then teaching me what is right and wrong. Mrs. Tanaka was already aware of my deafness so she patiently taught me many different things, which caused me to forget about being reckless. When she passed away during my high school year, I couldn't forget how much she had done to me. I have been thankful to her that I learned how to speak and hear English well with my hearing aid that I could involve in a mainstream community. ",
+      "inspiration":"Louis Zamperini has inspired me a lot because he was a toughest and bravest man I ever seen in my life. Louis had experienced and survived through many harsh and dangerous situations especially being a war prisoner in Japan during World War II.\n \nLouis used to be a rascal when he was little. To stay out of trouble and avoid ending up being immature, he joined track team in high school. In his mind, something told him not to give up, so he kept going until he gain something better. Later, he made to the US track team and went to the olympic in Germany where Adolf Hitler was elected to be the leader of Germany. \n\nDuring World War 2, Louis became a pilot of the bomber to fight against Japanese Imperials in the Pacific Rim. He survived the plane crashed when his plane was gunned down by the Japanese plane. Then he survived 55 days being stuck in the middle of the ocean waiting for the rescue. Unfortunately, the Japanese Imperials captured him then put him in the prison camp. \n\nWhen he was the prisoner of war, that was when he started to inspired me more. The Japanese prison captain,who called himself the Bird, loved to picked on Louis because he was famous in the olympic, so the Bird tested him on every torture method to see if he was strong enough. One of crazy part Louis faced was that he had his own friends and other American prisoners lining up in front on him. Then each person in the line was forced to punch Louis hard while they take turns. Louis was still standing after all the prisoners finished punching him. He just stood up straight like it is not over. When Japan surrendered, he was still standing. \n\nIn my mind, how the hell he could survive through all of these brutal things? I thought it would be very hard to meet this kind of endurance level like Louis. It showed me that when he can, I can be like him if I don't give up. I believe when his mind was tough as steel, his physical body would be as tough as his mind, therefore, he would be hard to takedown. I am sure that he also had so much stories to tell to his children and everyone else. ",
+      "project":"I don't have the last cool project but I can talk about one of my personal work. I bought my own web server recently and built my own personal website. It excited me because I like to learn how to add more things onto my website or trying to make my website more interactive. I didn't expect there are millions of way to change your website's appearances and functions. I think javascript is interesting to learn if I want to make my website as interactive. ",
+      "pleasure":"Playing video games during late nights when I was suppose to sleep because of sleeping pattern. I grew up playing video games but now I rather to play with my friends online more than playing alone. While I had been playing video games, I had been eaten junk foods right before I go to bed. Sometimes I had to stay up all nights to play with my friends because my friends live in the west coast of the US while I live in the east so the time difference has impacted my sleeping pattern. ",
+      "name":"Jared Yamauchi",
+      "twitter":"https://twitter.com/HawaiiZero",
+      "git":"https://github.com/JYamauchi"
+    },
+    {
+      "teacher":"Wayne A. Grove, Ph.D. Department Chair of Economics at LeMoyne College\n\nI had Professor Grove through my undergraduate studies with my major in Economics at LeMoyne College. He was an excellent teacher who took beyond the basic teachings most students experience with micro and macro economics. I was able to take a range of studies with him that broke economics down as a social science, studying the rational beyond how the world works, anywhere from politics to sports. He taught me how breaking down even the most complex situations into much smaller ones is where actual impactful decisions or actions occur.",
+      "inspiration":"My dad has been the biggest inspirations to me and have helped me become to person I am today. My father who is a veteran of the Navy, has an extremely wide range of life experience. From being in the Navy, to then becoming a New York City Police Officer and then becoming a New York City Fireman, he has had a wide range of services that have helped people. Even after obtaining these life experiences, he has since decided to go back and obtain his bachelor's degree to move forward with working with veterans returning home and helping them acclimate to every day life once again. He always looks to give back and help, whether its strangers or his family.",
+      "project":"My last cool project I worked on before WDI was building a Mini-Itx based PC that would enable to live HD capture of diagnostic testing, mostly Pediatric Echocardiagrams (ultrasounds of children's hearts) and streaming these images live to distant physicians accessing the viewing via teleconference. The lack of functionality of systems in place at both the medical group I was working with and the children's hospital it was streaming at extremely high frame rates in HD that the tests require. I found it extremely exciting as the private vendor they used stated it could not be done, and I took it upon myself to build the device to live-stream the ultrasound machines imaging in real time to the physicians.",
+      "pleasure":"It would have to be binge-watching Netflix online (which almost seems so common it can be considered a hobby than guilty pleasure these days).",
+      "name":"Kevin Bauer",
+      "twitter":"iamkevinbauer",
+      "git":"hellostella"
+    },
+    {
+      "teacher":"I grew up in the school of hard knocks but my personal favorite teacher was found throughout life. Texas Prison Guard, Special Ops in charge of .50 cal on choppers, loading nukes on the B-1 bomber to EOR on F-16 fighters in Italy for 10 years. Bull fight in Spain. Climbed Masada. Lobstering in Maine. Loading hay back home at a quarter a bale to picking' pecans at .10 a pound. \nFavorite teacher? Father Time.",
+      "inspiration":"My wife has inspired me more than any single person alive person today. The road to enlightenment is lined with bouquets of wisdom and she is the gem of my life. She makes me want to be a better person.",
+      "project":"Teaching oil workers how to stick pipe in the ground to get the oil out in North Dakota. The last project was a partnered investigation with Hess as to why a 550 lb metal tool fell 56 feet to the rig floor with 5 individuals standing there on a 10' x 10' platform.",
+      "pleasure":"Cooking food I learned from all of my world travels. Korea, Florida, Panama, Germany, Turkey, Iraq and Mexico. Finding the right pairing and companion to the meal is an art. I would love to just make it and give it away. ",
+      "name":"Rodger",
+      "twitter":"@RodJA32",
+      "git":"RodJA32"
+    },
+    {
+      "teacher":"Mr. Croonquist, my high school English teacher. He was blonde, had a ponytail, and a ready smile at all times. He had the most friendly and patient disposition. On the very first day of class as a freshman, I just recognized him as good person and I wanted good things to happen to him. ",
+      "inspiration":"Easy: my father. He dedicated his life to education and learning and trying to inspire the same in others. He had an insatiable curiosity and lived a life full of grace and nobility. I'm trying to live the same way.",
+      "project":"I love movies, and about 3 years ago I wanted a forum to share my thoughts on them, but I wanted to maintain complete creative control over the presentation. I also wanted to keep the copyright to everything that I was writing. So I learned how to build a website using Wordpress. Both the building of the website and the writing of the movie reviews combined to be a most fulfilling experience.",
+      "pleasure":"Okay, you got me. It's cigarettes. I don't really smoke that often because, hey, cancer, but once in a while I treat myself to a pack and just inhale that delicious poison to my heart's (dis)content.",
+      "name":"Nic Small",
+      "twitter":"SmallNicSmall",
+      "git":"SmallNic"
+    },
+    {
+      "teacher":"J Robert Kelley - a professor I had in college a few times and who advised my undergraduate thesis - he as inspiring and challenging.",
+      "inspiration":"My best friend Kaben -  He's completely dedicated to making his own way in the world and has so far stopped at nothing to make the vision he has for his life a reality.",
+      "project":"In my application, I described a data project I did for one a client of the law firm where I work - I developed and implemented an analysis of sales data to measure the risk of potential acquisition targets to help the company expand it's reach. The potential impact of the project was in terms of billions of dollars.\n\nWhat was exciting though was having complete responsibility for the development and implementation of the analysis - working with the data myself, getting a result and creating a presentation to show the client.",
+      "pleasure":"Taylor Swift. Please, don't judge.",
+      "name":"Zakk Fleischmann",
+      "twitter":"zfleischmann",
+      "git":"ZakkMann"
+    },
+    {
+      "teacher":"Professor Irwin because of the breadth of his knowledge yet humility and constant fascination/passion of the subject that he taught. Great intellect paired with humility indicates to me a sense of true passion in the subject versus self-aggrandizement purposes. ",
+      "inspiration":"I suppose there are several camera operators who inspire me because they are pioneers in the way the audience can connect to a story. One was a pioneer in the Steadicam world and a sequence he did in the movie Goodfellas is one of the most highly praised shots in film history. ",
+      "project":"I worked on the new Rocky movie and it was exciting because of the equipment and technology we were able to work with. ",
+      "pleasure":"getting lost in couple of days of catching up on movies",
+      "name":"Janice",
+      "twitter":"n/a",
+      "git":"n/a"
+    },
+    {
+      "teacher":"I don't have favorites, everyone has their own unique qualities.",
+      "inspiration":"My mother, She has always inspired me to follow my dreams no matter what and supported me every step of the way.",
+      "project":"Ive been designing a lot of websites lately and Its exiting to me when you figure something out without anyones help, because the feeling of doing it, its very rewarding to me.",
+      "pleasure":"My guilty pleasure is being in my studio painting, drinking green tea  and listening to great  music.",
+      "name":"dazel todd",
+      "twitter":"none",
+      "git":"dazeltodd"
+    },
+    {
+      "teacher":"Alix Timko & Aneta Mazur. They cared about the progress and future of their students.",
+      "inspiration":"I inspire myself, as an adult I don't look outside of myself for inspiration.  As a child I am sure batman inspired me :-).",
+      "project":"The last project I did was a server migration, it didn't excite me.\n\nI worked on a angular/ionic app for use on a mobile device. It excited me because I think good things will come from the ionic framework and I think it will be beneficial for me to learn it.",
+      "pleasure":"Video games, they are a time suck. I usually only play now when I am feeling extremely bored.",
+      "name":"Don McLamb",
+      "twitter":"@_D__o__N_",
+      "git":"dmc2015"
+    },
+    {
+      "teacher":"Mr. Bunting- High School Geometry. \n\nIt is certain there were many other teachers I've been closer to, or who have meant more to me, but Mr. Bunting was the most effective teacher in my life. He was my first period of the day- came into school everyday with a positive attitude and left his personal life at home. Let's be real, geometry isn't exactly rocket science, but he had a method that was tried and true and had like this ENTHUSIASM I had never seen in a teacher before. \n\nAlso one of my college history professors Dr. Alduino. He had been to every place he ever talked about, and was an excellent story teller. \n\nI guess the bottom line is that I like to be engaged. \"And I ain't even got a man.\"",
+      "inspiration":"Can I say Ira Glass?\n\nHe went to college for communications, expected to end up in television- but instead he took a job in public radio. He worked for years producing NPR news and other shows, all the while making contacts and building up the resources to produce his own show. Even after This American Life aired it wasn't perfect, but he's just kept going and refining his taste and sharpening his skills and being a general badass. ",
+      "project":"On the second day of class, my band's album is \"dropping.\" I've been a musician for most of my life and working in different projects, but this is by far the most time, pizza, and tears I have ever invested in a personal project. It took two years to write and record, got mastered  by an INSANE studio, and is getting put out by a pretty killer label. It's really rewarding to slap that \"DONE\" stamp on it and let it go out there to the world. ",
+      "pleasure":"Hanson? Seen them six times. Once at a krispy kreme. Yea I love them. \n\nDog Shows? Riveting. \n\nStar Trek: TNG? Commander Riker is a babe and my dad and I watched it for my whole life. ",
+      "name":"Allyson Little",
+      "twitter":"uhhlittle",
+      "git":"uhhlittle"
+    },
+    {
+      "teacher":"Mrs. Shepherd, my high school English teacher. Imagine an elderly Ms. Frizzle who teaches literature and wears flowing, wizard-like robes.",
+      "inspiration":"The main character in \"Kill Bill\" vols. 1 & 2, because of the ferocity with which she overcame great obstacles in pursuit of her ultimately successful goal. I strive to be as ferocious one day.",
+      "project":"I have a lot of projects that I start and don't finish. I like to try and learn languages, write books, draw things, make costumes, etc. I'm pretty excited about all of them. ",
+      "pleasure":"Spending too much time on the internet. But there is just so much to see!!!!",
+      "name":"Julia Rose",
+      "twitter":"You can't handle my twitter",
+      "git":"juliar0se"
+    },
+    {
+      "teacher":"My favorite teacher was my high school wind ensemble director, Garwood Whaley. I played the flute and the piccolo in the wind ensemble. Outside of our class we practiced after school, played concerts, and toured Europe each year. He expected a lot of his students, but also gave us a lot of freedom and responsibility. He trusted us and treated us like his equal, helping me learn independence.",
+      "inspiration":"Sally Ride has inspired me because she was a great scientist who broke into a traditionally male dominated field. I have always been fascinated with space and traveling to space. She she didn't let the fact that she was a woman stop her from following her dreams. There are a lack of women studying and working in STEM fields, and since I am woman working to learn technological skills, her story is inspiring to me.",
+      "project":"I worked at The Pew Charitable Trusts on their Clean Energy Program. The program was awarded a grant through the 11th Hour Project, a part of the Schmidt Family Foundation, to highlight unexpected states that have thriving clean energy sectors. We selected 8 states to feature for the project and I was lead author on 2 of them - Georgia and North Dakota. It was exciting to be part of something that is making a positive impact on an issue I am passionate about. I enjoyed the research process and creating a story around each state.",
+      "pleasure":"My guilty pleasure is watching Investigation Discovery - murder mystery TV shows.",
+      "name":"Sarah Greene",
+      "twitter":"greenesarah",
+      "git":"greenes"
+    },
+    {
+      "teacher":"I have many reasons why Dr. Abdi Darai is my favorite teacher but I'll only share a few. To start this man is brilliant, he was my professor for Calculus I, Calculus II, and Differential Equations. His teaching style was very thorough and as a student I could tell that Dr. Darai truly had a passion for teaching and mathematics. He always incorporated real world examples of how each subject is relevant to our field of study. Dr. Darai always pushed his students to be the best and no matter how busy his schedule was if you reached out to him for help he made the time to assist you with whatever issues you were facing.",
+      "inspiration":"My grandfather is my inspiration! I am inspired by him because of his positive spirit that touches the lives of others without him even knowing. My grandfather is wise, trust worthy, protective, charismatic, and intelligent. I could go on but those are a few reasons why my grandfather inspires me.",
+      "project":"I was responsible for creating a Saturday STEM program for local middle school students at Howard University. Through this program students very introduced to topics such as robotics and computer science. They also worked together as a team to complete different projects.",
+      "pleasure":"My guilty pleasure is watching the movie Norbit whenever I need a good laugh.",
+      "name":"Michael Kendall",
+      "twitter":"@MichaelK_inc",
+      "git":"N/A"
+    },
+    {
+      "teacher":"My favorite teacher was a professor named Ann Douglas. She taught a seminar on the literature of the Beat Generation and was an incredible scholar. She had lived through the generation herself, to an extent, and had an incredible youthfulness and rhythm to the way she spoke that was captivating. ",
+      "inspiration":"I am inspired by Tina Fey because she is an incredibly witty and articulate writer and performer. Everything she makes is expertly observational. 30 Rock never gets old. ",
+      "project":"This previous fall I worked in Buenos Aires with a journalism / documentary startup. I co-produced documentary shorts about water quality and other environmental issues in the city and surrounding province related to river pollution. It was exciting to live and work in a new city, to practice my Spanish, and to make connections with other expats. ",
+      "pleasure":"I don't believe in mixing pleasure and guilt. ",
+      "name":"Noah Levine",
+      "twitter":"none",
+      "git":"nclevine"
+    },
+    {
+      "teacher":"One of my favorite dance instructors is Skye Humphries. Not only is he an amazing dancer, but a great, and concise teacher as well. He reads the room and adapts to his students needs. In a huge class, he still takes the time to give personal attention and instruction if he sees it's necessary. He's very creative and insightful, and really helps you grow as a dancer. ",
+      "inspiration":"My absolute favorite female dancer is Laura Glaess. A lot of my dance inspiration comes from watching and her instruction. I've been trying to emulate her styling and moves into my own dancing for years. She is a phenomenal dancer and is revered by the dance community all over the world. ",
+      "project":"One of my last cool projects was working on a solo jazz class series. I taught a month long class series by myself which, made me a little nervous at first however, I really enjoy being the sole instructor of a classroom. Designing this class was a challenge because it's a subject that dancers in the area aren't familiar with. It was my goal to make some real positive changes in my dance community and ultimately, there was a big difference in my students and thus the community. ",
+      "pleasure":"Obviously, one of my guilty pleasures is talking about dancing entirely too much. A guilty pleasure of mine is occasionally binge watching anime or star trek. ",
+      "name":"Ammie Mcculloch",
+      "twitter":"n/a",
+      "git":"Vaalys"
+    },
+    {
+      "teacher":"My Dad. No matter how much I learn on any subject, I think he'll always know more than me. Luckily he shares some of that knowledge with me.",
+      "inspiration":"My wife inspires me most every day. Despite the challenges she has faced in both her work and personal life, she has overcome all obstacles thrown her way and then some. In addition to all this she still has the patience to deal with me on a daily basis.",
+      "project":"I had a friend who was a chef while in Geneva. She decided to do a one night only \"pop up\" restaurant on an old sailboat off the shores of the lake. She asked if I would be her \"sous chef\" for the event. I was a very average and amateur chef but of course I said yes. I got to help with the menu, ingredients, settings, etc. Still not sure if I helped more than hurt, but it was amazing to be part of an event like that.\n\n\nPop Up restaurant",
+      "pleasure":"Vampire Diaries.\n\nIt was the only show in english on tv for the first few months in Switzerland while staying at a hotel and I kind of got hooked. Plus the main character's name is Damon so...",
+      "name":"Damon Emde",
+      "twitter":"none",
+      "git":"none"
+    },
+    {
+      "teacher":"Ms.Shopland, 3rd grade, she taught me how to read chapter books! ",
+      "inspiration":"My fiancé inspires me, his family came to this country with nothing and he has put himself through college and made something of himself all while being the most positive person always smiling. ",
+      "project":"Painting my entire house. Totally not exciting but you get this odd sense of accomplishment after you finish a room and you can stand back and actually see what you completed. Saved me about 3k in painters and saving money excites me. ",
+      "pleasure":"Ebay. I am obsessed with bidding on item/finding great deals on anything. It gives me a high to get a good deal. ",
+      "name":"Brittany Henson",
+      "twitter":"britbrith",
+      "git":"britbrith4"
+    },
+    {
+      "teacher":"Richard Squier. He was one of my math / computer science professors back in college. While I only took a few electives with him, his fresh approach to teaching taught me how to tackle radically new concepts. If it wasn't for him, I probably wouldn't be taking this program.",
+      "inspiration":"I look up to my friends more than I do any one person. Hearing about their experiences in different fields and taking in their advice and lessons learned serves as a constant source of inspiration.",
+      "project":"Last fall my friends and I put on a music festival here in DC. It was exciting, not only because it was something I wanted to do since I was a kid but also it was my first time working on a collaborative project with a lot of moving parts. Like, a lot of them. Definitely the biggest learning experience of my adult life so far.",
+      "pleasure":"Pop punk. Started listening to it in middle school and never stopped.",
+      "name":"Adrian Maseda",
+      "twitter":"urdmaseda",
+      "git":"amaseda"
+    },
+    {
+      "teacher":"Dad and Mom for teaching me the pride that comes from hard work vs job title and that no matter how tired you are from a tough day, kindness cannot be extinguished.",
+      "inspiration":"Misty's Psyduck because he didn't want to fight, listen, and was probably the worst Pokemon to have for a Pokemon Master.  Still his nonviolent headache protest to fighting fellow Pokemons for the amusement of children as the children enslaved them and kept them in little confined Pokeballs just to attain shiny little badges never faltered.",
+      "project":"My last coding project was in school many years ago and it was not cool, it was just for survival.  so none.",
+      "pleasure":"Paw Patrols, cute puppies that can transform to superheroes.",
+      "name":"enoch shin",
+      "twitter":"@spmandoo",
+      "git":"seekpeace"
+    },
+    {
+      "teacher":"Dr. Doerries, a Psychology professor of mine in college. We formed a close friendship while working on my final thesis, and we always enjoyed sharing and debating ideas.",
+      "inspiration":"Garry Kasparov. After dominating the chess world for over 20 years, he's now gotten into political activism, working hard to travel the world and keep Vladimir Putin and the crisis in Ukraine in the public eye even as the high-profile murders of Putin's political dissidents continue to mount.",
+      "project":"Moving to the Czech Republic, immersing myself in the culture for six years, and learning to speak the language fluently was the best project of my life so far. It took a lot of intense study, social adaptation and self-insight and growth, and will be an influence on me for the rest of my life.",
+      "pleasure":"Chess! I'm a huge geek for it. I learned the game in Czech Rep from a group of drunken old British guys on Tuesday nights, and I taught it for two years in DC and in Berkeley. I study the game more often than I'll admit, and I'm always up for playing.",
+      "name":"Ryan Keiper",
+      "twitter":"@TheKeiper",
+      "git":"ryankeiper"
+    },
+    {
+      "teacher":"I have two:  My 12th grade English teacher, who treated his students like adults and gave their opinions honest considerations in class, and my French teacher the same year, who brought a draconian rigor to class not often seen in the late 20th century; it made her hard to like, but she whipped students into shape and we knew how to speak french better and sounded better than many who had studied far longer.  I'm still thankful to her for that.  ",
+      "inspiration":"A good friend of mine who is a high end programmer.  He's an expert in his field, yet always available to answer questions or help out whenever he's needed.  And he's one of the most giving people I know, a fantastic cook (even though he says he hates doing it!), and a blast to hang out with.  ",
+      "project":"I wrote one of the main chapters in a market study to help target international food assistance for the US government to a country in West Africa.  Always fascinating to travel and meet with major market players to see what the perceived impact of food aid would be, and investigate whether there was enough logistical capacity to receive, store and transport assistance there.  \n\nI also learned how to write a piece of python code to grab copies of a large set of files (based on their full file paths) and place them in a selected location on our shared drive at work.  I like being able to automate things and that was very exciting.  ",
+      "pleasure":"I love finding organization in things - Getting Things Done was a god-send.  I love cooking, and find it a great way to take my mind off things.  I love swing dancing, even though I'm not as half the DC swing dance community.  I love losing myself in trying to play music or sketching even though I'm terrible and feel I'll never get either.  I love doing shots with my family at the holidays (tequila and jaegermeister are big favorites).  I love spending time with my family.  I love speaking French and Spanish, and trying to speak German with my fiancee even though I know I sound terrible and often don't make any sense.  I love visiting markets in developing countries and learning what life is like at the local level, and bringing small pieces of those worlds back with me and filling my life with them, and sharing them with others.  ",
+      "name":"Toby Schaeffer",
+      "twitter":"@tobyschaeffer",
+      "git":"mugshepherd"
+    },
+    {
+      "teacher":"My favorite teacher was my goofy high school Latin teacher, Mr. Young. I had Mr. Young as a teacher over a period of 7 years and some of my favorite memories came from when I was lucky enough to travel with him and my classmates to Italy to visit all the ancient ruins we had learned about in class. He always treated his students with respect, made us laugh every day and encouraged our curiosity above all else. He is the first teacher I had who cared more about what we were actually learning than about our grades or academic accomplishments. I still consider him a great friend and mentor!\n\nIf this question is referring to favorite GA teacher, I would say TBD!",
+      "inspiration":"My mother has inspired me. As a single mother of two children for the first 5 years of my life, my mom always worked hard to ensure that my sister and I had everything we needed to thrive. She has always put our education above all else and I credit her with my desire to be a lifelong learner. She has proven that we can all accomplish anything we put our minds to, and has been my #1 cheerleader during this process in which I have decided to completely change careers and pursue WDI. She is an inspiration in every way, but I admire her most for the strength, generosity and kindness she has always expressed even in the face of adversity. ",
+      "project":"My last cool project before WDI was helping my previous company, Global Prairie, become B Corp certified. GP is a marketing company that gives back 10% of its profits to local communities and is environmentally-conscious, but had not documented the majority of its achievements over the past several years. I partnered with our CEO/Founder (which was VERY exciting!) to gather all relevant information and worked with a B Corp consultant over a period of 6 months to gain certification. While it was an intense and rigorous process, I was excited to help our company move forward with this long-standing goal and actually see it all come to fruition (we received our official certification last week!). ",
+      "pleasure":"Netlfix/Hulu! I'm a culprit of binge watching seasons of shows all at once...getting through House of Cards before WDI starts!",
+      "name":"Haleigh Harper",
+      "twitter":"haleharper",
+      "git":"TBD..."
+    },
+    {
+      "teacher":"Salman Khan from Khan academy because he globalized teaching through youtube.",
+      "inspiration":"Elon Musk. He actually proved to me if people wants nothing is impossible.",
+      "project":"Going to South East asia and working with a non-profit for 2 weeks. It teaches you a lot about other people, country and culture.",
+      "pleasure":"Watching Shark tank. ",
+      "name":"Alif Chowdhury",
+      "twitter":"@alifchowdhury",
+      "git":"@ifthesim"
+    },
+    {
+      "teacher":"Dr. Tegarden back in university.  Taught introduction to software development.  First professor to make the topic interesting.  introduced me to concepts such as concept mapping for knowledge retention and the basics of UML for software design.\n\n",
+      "inspiration":"I dont want to get personal but I have had several friends that have had big levels of career change.  it has resulted in varying degree of sucess.  but they taught me to never be afraid of change, take risks and dont settle with being unhappy with your work.",
+      "project":"I remember teaching myself mysql and php a long time ago by writing a TV Guide app.  it was pretty cool as it had several challenges \n(importing xml data into a mysql, the resulting database design and relationships, and not mention learning PHP at the end to display everything on the front end)",
+      "pleasure":"bit of a tech geek really... electronics, gadgets, computers, it can get expensive if i dont control it",
+      "name":"Eltahir Eltahir",
+      "twitter":"theeltahir",
+      "git":"theeltahir"
+    },
+    {
+      "teacher":"Mrs. Fernstein my fifth grade teacher. She respected all the kids in her class, and tried her best to make learning fun. She was understanding of all her students, and let students learn in whatever way was natural to them. I remember that there was a kid in our class who would only do work while sitting on top of a bookshelf. As long as he got his work done and listened she had no problem with it. There are many stories like that about her.",
+      "inspiration":"Einstein. He made me understand what intelligence really is, and to never take life too seriously.",
+      "project":"I made a kegerator, I always have liked building things, so I was excited to create something new.",
+      "pleasure":"The Dr Phil show. ",
+      "name":"Matt Wuertz",
+      "twitter":"@IDONTHAVEONE",
+      "git":"kmg112"
+    }
+  ]}
