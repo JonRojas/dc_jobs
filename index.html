@@ -7,23 +7,28 @@
   <link rel="stylesheet" href="webfontkit/stylesheet.css">
   <script src="js/jquery-1.11.2.min.js"></script>
   <script src="js/underscore-min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/tinysort/2.2.2/tinysort.min.js"></script>
 </head>
 <body>
   <header>
     <h1>DC Jobs</h1>
     <nav class="js-teams-nav teams-nav">
   </header>
+
+
   <div class="content js-profiles">
   </div>
-  <script id="employee-template" type="text/x-handlebars-template">
-    {{#each employees}}
+
+
+
+  <script id="jobs-template" type="text/x-handlebars-template">
+    {{#each employer}}
       <div class="profile-card" id="tyler">
-      	<img src="{{this.Image}}" alt="Tyler">
-      	<a href='#'><h2>{{this.Name}}</h2></a>
+      	<a href='#'><h2>{{this.companyname}}</h2></a>
       </div>
     {{/each}}
   </script>
+
+
   <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
   <script src="js/tabletop.js"></script>
   <script src="js/handlebars-v3.0.3.js"></script>
