@@ -68,7 +68,8 @@ h2 {
   border-top: 15px solid black;
   margin: 20px;
   background-color: #FED606;
-  max-width: 300px;
+  min-width: 200px;
+  padding: 0 10px 0 10px;
 }
 
 .profile-card:hover {
