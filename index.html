@@ -22,8 +22,8 @@
 
   <script id="jobs-template" type="text/x-handlebars-template">
     {{#each employer}}
-      <div class="profile-card" id="tyler">
-      	<a href='#'><h2>{{this.companyname}}</h2></a>
+      <div class="profile-card {{this.Category}}" id="tyler">
+      	<a href='{{this.CareerPage}}'><h2>{{this.Company}}</h2></a>
       </div>
     {{/each}}
   </script>

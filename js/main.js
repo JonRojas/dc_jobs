@@ -1,6 +1,6 @@
 var $container = $(".js-profiles")
 
-Tabletop.init({ 
+Tabletop.init({
   key: "https://docs.google.com/spreadsheets/d/1rLXcGtJYa7byW464v4ddCtZr98okdwBMK277IRFL9xM/pubhtml?gid=391686811&single=true",
   callback: sheetLoad,
   simpleSheet: true
@@ -8,7 +8,7 @@ Tabletop.init({
 
 function sheetLoad( data, tabletop ){
   render( data )
-  buildTeams( data )
+  buildCategories( data )
 }
 
 function render( context ){
@@ -18,20 +18,20 @@ function render( context ){
   $(".js-profiles").html( html ).show()
 }
 
-function buildTeams( context ){
-  var teams = _.map( context, function( person ){
-    return person.Team 
+function buildCategories( context ){
+  var categories = _.map( context, function( company ){
+    return company.Category
   })
-  teams = _.uniq( teams )
+  categories = _.uniq( categories )
   var a = document.createElement("a")
   a.innerHTML = "All"
   a.setAttribute("data-filter","*")
-  $(".js-teams-nav").append(a) 
-  for( var i = 0; i < teams.length; i++ ){
+  $(".js-teams-nav").append(a)
+  for( var i = 0; i < categories.length; i++ ){
     var a = document.createElement("a")
-    a.innerHTML = teams[i]
-    a.setAttribute("data-filter","." + teams[i])
-    $(".js-teams-nav").append(a) 
+    a.innerHTML = categories[i]
+    a.setAttribute("data-filter","." + categories[i])
+    $(".js-teams-nav").append(a)
   }
   $(".js-teams-nav a").on("click", function( event ){
     event.preventDefault()
