@@ -1,3 +1,15 @@
+$(document).ready(resizeCard);
+
+$(window).resize(resizeCard);
+
+
+function resizeCard() {
+  $('.profile-card + .profile-card').css({
+    'max-width': $('.profile-card:first-child').width()
+    });
+}
+
+
 var $container = $(".js-profiles")
 
 Tabletop.init({
@@ -16,7 +28,9 @@ function render( context ){
   var compile = Handlebars.compile( template )
   var html = compile( { employer: context } )
   $(".js-profiles").html( html ).show()
+  resizeCard();
 }
+
 
 function buildCategories( context ){
   var categories = _.map( context, function( company ){
