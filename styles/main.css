@@ -5,18 +5,6 @@ body {
   margin: 0px;
 }
 
-.content {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: flex-start;
-  flex-wrap: wrap;
-  align-items: flex-start;
-}
-
-.controls {
-  text-align: center;
-
-}
 
 header {
   width: 100%;
@@ -27,80 +15,6 @@ header {
   margin-left: 0px;
 }
 
-
-
-button {
-  font-size: 1.5rem;
-  text-decoration: none;
-  padding: .5rem 1.5rem .5rem;
-  border: 0;
-  border-radius: 3px;
-  text-align: center;
-  transition: all .15s ease-in-out;
-  outline: none;
-}
-
-
-h1 {
-  font-family: 'pf_din_text_comp_probold', sans-serif;
-  text-transform: uppercase;
-  margin: 5px;
-  text-align: center;
-  font-size: 4rem;
-}
-
-
-h2 {
-  font-family: 'pf_din_text_comp_probold', sans-serif;
-  text-transform: uppercase;
-  margin: 5px;
-  text-align: center;
-}
-
-.current-name {
-  font-size: 2.5em;
-/*   color: #FA4542;
- */}
-
-
-.profile-card {
-  flex: 1 1 200px;
-  border-top: 15px solid black;
-  margin: 20px;
-  background-color: #FED606;
-  min-width: 200px;
-  padding: 0 10px 0 10px;
-}
-
-.profile-card:hover {
-  cursor: pointer;
-}
-
-.profile-card > img {
-  width: 100%;
-  border-bottom: 5px solid #FED606;
-}
-
-.profile-card > a {
-  text-decoration: none;
-  color: black;
-}
-
-.profile-card > a:hover {
-  color: #5d5d5d;
-}
-
-
-@media (max-width: 450px) {
-  .controls.tiny > button{
-    font-size: 1rem;
-    padding: .4rem 1rem;
-  }
-  header.tiny > .current-name {
-    font-size: 2.5em;
-  }
-
-}
 
 .teams-nav{
   display:block;
@@ -121,4 +35,76 @@ h2 {
 .teams-nav > a.active{
   background: #000;
   color: #fff;
+}
+
+h1 {
+  font-family: 'pf_din_text_comp_probold', sans-serif;
+  text-transform: uppercase;
+  margin: 5px;
+  text-align: center;
+  font-size: 4rem;
+}
+
+.content {
+
+/*   display: flex;
+flex-flow: row wrap;
+justify-content: flex-start;
+flex-wrap: wrap;
+align-items: flex-start; */
+
+}
+
+h2 {
+  font-family: 'pf_din_text_comp_probold', sans-serif;
+  text-transform: uppercase;
+  margin: 5px;
+  text-align: center;
+}
+
+.profile-card {
+  position: relative;
+  float: left;
+  width: 200px;
+  border-top: 15px solid black;
+  margin: 10px;
+  background-color: #FED606;
+  padding: 0 10px 0 10px;
+}
+
+.profile-card:hover {
+  cursor: pointer;
+}
+
+
+.profile-card > a {
+  text-decoration: none;
+  color: black;
+}
+
+.profile-card > a:hover {
+  color: #5d5d5d;
+}
+
+
+@media (max-width : 500px) {
+  .teams-nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+  }
+
+  .teams-nav a {
+    flex: 0 0 auto;
+    margin-bottom: 5px;
+  }
+
+  header {
+    margin-bottom: 50px;
+  }
+
+  .profile-card {
+    width: 100%;
+  }
 }
